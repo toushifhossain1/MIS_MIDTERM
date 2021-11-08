@@ -1,5 +1,6 @@
 body{
     background-color: rgb(248, 245, 240);
+    margin: 100px;
 }
 
 .title_logos{
@@ -17,5 +18,40 @@ body{
 }
 button{
     margin-left: 20px;
+    border-radius: 25px;
+  background: #73AD21;
+  padding: 2px;
+  width: 100px;
+  height: 25px;
     
+}
+
+
+
+.middle_part{
+    margin-top: 100px;
+    
+}
+
+.red_text{
+    color: red;
+}
+.text_black_green{
+    display: flex;
+}
+.green{
+    color: green;
+    margin-left: 20px;
+    
+}
+
+.Image_illustration{
+    margin-top: -300px;
+    margin-left: 400px;
+
+}
+
+
+.lorem{
+    margin-bottom: 25px;
 }
