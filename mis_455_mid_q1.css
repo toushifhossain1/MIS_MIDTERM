@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(248, 245, 240);
+}
+
+.title_logos{
+    display: flex;
+    align-items: center;
+
+}
+.left{
+    display: flex;
+    word-spacing: 30px;
+    margin-left: 900px;
+   
+    
+    
+}
+button{
+    margin-left: 20px;
+    
+}
