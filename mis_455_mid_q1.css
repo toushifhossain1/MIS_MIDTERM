@@ -1,6 +1,7 @@
 body{
     background-color: rgb(248, 245, 240);
-    margin: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
 }
 
 .title_logos{
@@ -11,7 +12,8 @@ body{
 .left{
     display: flex;
     word-spacing: 30px;
-    margin-left: 900px;
+    margin-left: 600px;
+    margin-right: 20px;
    
     
     
@@ -54,4 +56,45 @@ button{
 
 .lorem{
     margin-bottom: 25px;
+}
+
+.logos_4{
+display: flex;
+
+
+}
+
+.first_box{
+    
+    
+    border: 2px solid green;
+    padding: 10px;
+    margin: 50px;
+    background-color:  rgb(255, 253, 208);
+  
+}
+.second_box{
+     
+    border: 2px solid green;
+    padding: 10px;
+    margin: 50px;
+    background-color:  rgb(255, 253, 208);
+  
+}
+.third_box{
+     
+    border: 2px solid green;
+    padding: 10px;
+    margin: 50px;
+    background-color:  rgb(255, 253, 208);
+  
+}
+
+.fourth_box{
+     
+    border: 2px solid green;
+    padding: 10px;
+    margin: 50px;
+    background-color:  rgb(255, 253, 208);
+  
 }
