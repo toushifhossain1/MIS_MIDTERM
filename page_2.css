@@ -6,6 +6,7 @@ body{
 
 .All{
     
+    margin: 25px;
     
     border-style: solid;
     border-radius: 10px;
@@ -13,14 +14,16 @@ body{
     
     background-color: rgb(191, 219, 235);
 }
-
+button{
+    margin: 25px;
+}
 .result_box{
     align-items: baseline;
-    
-    
+    margin: 25px;
+    color: red;
     border-style: solid;
     border-radius: 10px;
-    border-color: rgb(168, 103, 103);
+    border-color: rgb(9, 160, 19);
     
     background-color: rgb(193, 250, 188);
 }
