@@ -18,12 +18,14 @@ function show_results() {
         bonus = salary * 0.3;
     }
     else if (age > 35 && yearly_salary >= 300000) {
-        bonus = salary * 0.3;
+        bonus = salary * 0.4;
     }
     else {
         bonus = salary * 0.1;
     }
     bonus = bonus * 12.0;
-    result_show.innerText = name;
+
+    show_name.innerText = name;
+    show_bonus.innerText = bonus;
 
 }
